@@ -1,0 +1,23 @@
+Ecommerce Data Analysis & Machine Learning
+📌 Project Overview
+This project analyzes an e-commerce dataset using data analytics and machine learning techniques. The goal is to explore customer behaviors, identify trends, and build predictive models for business insights.
+
+🛠️ Technologies Used
+Python (pandas, numpy, seaborn, matplotlib)
+Machine Learning (Random Forest, Logistic Regression, Decision Tree, SVM, Linear Regression)
+Data Preprocessing (Label Encoding, Train-Test Split)
+
+📂 Dataset
+The dataset contains e-commerce transaction data, including:
+Customer demographics
+Purchase behaviors
+Product categories
+Transaction details
+
+🚀 Features Implemented
+Data Preprocessing: Handling missing values, encoding categorical data
+Exploratory Data Analysis (EDA): Data visualization and trend analysis
+Machine Learning Models:
+Classification (Random Forest, Logistic Regression, Decision Tree, SVM)
+Regression (Linear Regression)
+Model evaluation using accuracy, confusion matrix, and RMSE
